@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gareth, an <a href="https://linkedin.com/in/gareth-mccallum">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gareth, an <a href="https://linkedin.com/in/gareth-mccallum"> Aspiring IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
