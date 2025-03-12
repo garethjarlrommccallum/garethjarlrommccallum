@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jet5s7am/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jet5s7am/azure-network-protocols)
+  - Monitoring Network Traffic with WireShark
 
 <h2>🤳Connect with me:</h2>
 
