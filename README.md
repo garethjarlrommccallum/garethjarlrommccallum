@@ -11,7 +11,7 @@
   - [Network Security and Inspecting Network Protocols](https://github.com/garethjarlrommccallum/azure-network-protocols)
  
 - <b>Linux</b>
-  - 
+  - [Linux File Permissions](https://github.com/garethjarlrommccallum/Linux-File-Permissions)
   
 
 <h2>🤳Connect with me:</h2>
