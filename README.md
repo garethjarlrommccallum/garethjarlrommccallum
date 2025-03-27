@@ -12,7 +12,7 @@
  
 - <b>Linux</b>
   - [Linux File Permissions](https://github.com/garethjarlrommccallum/Linux-File-Permissions)
-  
+  - [Manage Directories and Files](https://github.com/garethjarlrommccallum/Manage-directories-and-files)
 
 <h2>🤳Connect with me:</h2>
 
